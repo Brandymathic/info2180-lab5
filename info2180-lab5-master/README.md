@@ -1,3 +1,3 @@
-# INFO2180 Lab 5
+# INFO2180 LAB 5
 
-This is Lab 5 for <Your Name> on PHP and MySQL
+This is Lab 5 for Brandon Ellington on PHP and MySQL
